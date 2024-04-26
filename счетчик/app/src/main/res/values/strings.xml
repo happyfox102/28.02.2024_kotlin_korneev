@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minus_label">minus</string>
+    <string name="plus_label">plus</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="congratulations">Congratulations</string>
+</resources>
